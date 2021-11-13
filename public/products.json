@@ -1,0 +1,33 @@
+[{"id":1,"name":"bike-righ","price":330,"location":"An advanced 250 cc, 4-stroke fuel injected engine offers power on tap. With an output of 18 kW (24.5 PS) and a peak torque of 21.5 Nm, it takes the signature ‘Pulsar rush’ to the next level.","img":"https://i.ibb.co/tBnRdFY/home-bike-right.png"},
+
+    {"id":2,"name":"NS125","price":120,"location":"Built on the principles of ‘sculptural purity’, the all-new aerodynamic Pulsar 250 commands attention. It sports a tone-on-tone dynamic interplay of metallised dual colours and Satin silver components finished in metallic hues.","img":"https://i.ibb.co/4frGskp/NS125.png"},
+
+    {"id":3,"name":"NS-160","price":150,"location":"Unleash the power of precision with 300 mm front & 230 mm rear, bigger disc brakes and an advanced ABS technology. Experience unwavering stability and grip on any terrain with wider front & rear tubeless tyres.","img":"https://i.ibb.co/Fh4dZYC/NS-160.png"},
+
+    {"id":4,"name":"NS200","price":930,"location":"Versatility at its purest, the thoughtfully added features are engineered for an exhilarating ride and next level performance. The bi-functional LED projector headlamp offers unmatched illumination while the infinity display gives a clear and striking visual.","img":"https://i.ibb.co/tp0QnMW/NS200.png"},
+
+    {"id":5,"name":"Pulsar-125 ","price":200,"location":"Discover first-hand what it's like to be a part of the Bajaj family. Find the latest news, stories and updates from across the Bajaj ecosystem here.","img":"https://i.ibb.co/VmhFy47/Pulsar-125.png"},
+
+    {"id":6,"name":"Pulsar-150","price":119,"location":"Discover first-hand what it's like to be a part of the Bajaj family. Find the latest news, stories and updates from across the Bajaj ecosystem here.","img":"https://i.ibb.co/KqWNh7R/Pulsar150.png"},
+    {"id":7,"name":"PUlsar-180","price":119,"location":"Our talent acquisition strategy strikes a balance amongst fresh & lateral hires and charting growth opportunities for all our employees.","img":"https://i.ibb.co/VBz3jfZ/PUlsar-180.png"},
+    {"id":8,"name":"Pulsar220-F","price":119,"location":"At the heart of every success, lie our investors. Hence, we adhere to the statute laid down by the Companies Act and other regulatory bodies.","img":"https://i.ibb.co/tHfbkQ0/Pulsar220-F.png"},
+    {"id":9,"name":"RS-200","price":119,"location":"Bajaj Auto is a leading manufacturer of motorcycles and three-wheelers in India. Check out the motorbikes offered by Bajaj Auto and book one online right ","img":"https://i.ibb.co/KKYqKY5/RS-200.png"},
+    {"id":10,"name":"RF-444","price":119,"location":"Bajaj Auto Limited is an Indian multinational two-wheeler and three-wheeler manufacturing company based in Pune, Maharashtra. It manufactures motorcycles, scooters and auto rickshaws. Bajaj Auto is a part of the Bajaj Group. It was founded by Jamnalal Bajaj in Rajasthan in the 1940s. ","img":"https://i.ibb.co/RNXnZkW/Thumbnail-Image.jpg"}
+
+]
+
+
+
+
+
+
+//     https://i.ibb.co/tBnRdFY/home-bike-right.png
+// https://i.ibb.co/4frGskp/NS125.png
+// https://i.ibb.co/Fh4dZYC/NS-160.png
+// https://i.ibb.co/tp0QnMW/NS200.png
+// https://i.ibb.co/VmhFy47/Pulsar-125.png
+// https://i.ibb.co/KqWNh7R/Pulsar150.png
+// https://i.ibb.co/VBz3jfZ/PUlsar-180.png
+// https://i.ibb.co/tHfbkQ0/Pulsar220-F.png
+// https://i.ibb.co/KKYqKY5/RS-200.png
+// https://i.ibb.co/RNXnZkW/Thumbnail-Image.jpg

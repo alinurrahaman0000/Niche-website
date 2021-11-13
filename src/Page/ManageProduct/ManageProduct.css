@@ -1,0 +1,6 @@
+.btn {
+  background-color: rgb(241, 191, 191);
+}
+.btn:hover {
+  color: cornflowerblue;
+}

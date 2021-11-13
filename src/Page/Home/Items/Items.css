@@ -1,0 +1,28 @@
+.items img {
+  width: 422px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.items {
+  background-color: rgba(241, 236, 228, 0.541);
+  border-radius: 20px;
+}
+
+.items img:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.items button {
+  background-color: rgb(218, 146, 120);
+  padding: 7px;
+  color: wheat;
+  border-radius: 8px;
+}
+
+.items button:hover {
+  background-color: black;
+  color: white;
+}
